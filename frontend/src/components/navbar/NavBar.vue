@@ -15,7 +15,7 @@ import SearchIcon from "@/components/navbar/icons/SearchIcon.vue";
     <input id="my-drawer-4" type="checkbox" class="drawer-toggle inline" />
     <div class="drawer-content">
       <!-- Navbar -->
-      <nav class="navbar w-full bg-base-300">
+      <nav class="navbar w-full bg-base-100 shadow-sm">
         <label for="my-drawer-4" aria-label="open sidebar" class="btn btn-square btn-ghost drawer-button">
           <!-- Sidebar toggle icon -->
           <MenuIcon/>
